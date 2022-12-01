@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Solutions to advent js 2022 challenges",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --verbose"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,12 @@
     "adventjs-2022"
   ],
   "author": "Pedro Chaparro",
-  "license": "GPL-3.0-or-later"
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "jest": "29.3.1",
+    "prettier": "2.8.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
 }
