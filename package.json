@@ -1,0 +1,20 @@
+{
+  "name": "adventjs-2022",
+  "version": "1.0.0",
+  "description": "Solutions to advent js 2022 challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:PChaparro/adventjs-2022.git"
+  },
+  "keywords": [
+    "javascript",
+    "adventjs",
+    "adventjs-2022"
+  ],
+  "author": "Pedro Chaparro",
+  "license": "GPL-3.0-or-later"
+}
