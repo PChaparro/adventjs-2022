@@ -4,5 +4,6 @@
 
 | Problem                             | Link                                                                               | Score |
 | ----------------------------------- | ---------------------------------------------------------------------------------- | ----- |
-| Automating Christmas gift wrapping! | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-01/index.js) | 132   |
-| Tomorrow ⏰...                      | ...                                                                                | ...   |
+| #1 Automating Christmas gift wrapping! | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-01/index.js) | 132   |
+| #2 Nobody wants to do extra hours at work | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-02/index.js)  | 132   |
+| Tomorrow ⏰...                      | ...                                                                                 | ...   |
