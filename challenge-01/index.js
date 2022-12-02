@@ -5,4 +5,4 @@ const wrapping = (gifts) => {
   });
 };
 
-module.exports = { wraping };
+module.exports = { wrapping };
