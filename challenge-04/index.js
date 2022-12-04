@@ -15,6 +15,16 @@ const solve = (boxes) => {
 };
 
 /* 
+// My favorite one
+// 162 points
+const solve = (boxes) => {
+  return boxes.filter(
+    box => boxes.some(bigger => bigger.w > box.w && bigger.h > box.h && bigger.l > box.l)
+  ).length === boxes.length -1;
+}
+*/
+
+/* 
 // 163 POINTS
 const solve = (boxes) => {
   return (
