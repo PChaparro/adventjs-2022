@@ -8,4 +8,5 @@
 | #2 Nobody wants to do extra hours at work   | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-02/index.js) | 132   |
 | #3 How many packs of gifts can Santa carry? | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-03/index.js) | 198   |
 | #4 Box inside a box and another...          | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-04/index.js) | 170   |
+| #5 Optimizing Santa's trips                 | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-05/index.js) | 121   |
 | Tomorrow ⏰...                              | ...                                                                                | ...   |
