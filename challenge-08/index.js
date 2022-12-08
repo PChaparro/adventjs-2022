@@ -1,6 +1,13 @@
 const solve = (part) => {
-  const arr = [...part];
+  return [...part].some((_, index) => {
+    const filtered = part.substring(0, index) + part.substring(index + 1);
+    return filtered === [...filtered].reverse().join('');
+  });
+};
 
+// Alternative solutions
+/*
+const solve = (part) => {
   // This line is supposed to avoid unneeded operations but reach 160 points
   // if (arr.reverse().join('') === part) return true;
 
@@ -19,5 +26,6 @@ const solve = (part) => {
     }, 0) >= 1
   );
 };
+*/
 
 module.exports = { solve };
