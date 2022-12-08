@@ -11,4 +11,5 @@
 | #5 Optimizing Santa's trips                 | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-05/index.js) | 121   |
 | #6 Creating xmas decorations                | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-06/index.js) | 160   |
 | #7 Doing gifts inventory                    | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-07/index.js) | 200   |
+| #8 We need a mechanic!                      | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-08/index.js) | 200   |
 | Tomorrow ⏰...                              | ...                                                                                | ...   |
