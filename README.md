@@ -13,5 +13,5 @@
 | #7 Doing gifts inventory                    | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-07/index.js) | 200   |
 | #8 We need a mechanic!                      | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-08/index.js) | 300   |
 | #9 Crazy Xmas lights                        | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-09/index.js) | 140   |
-| #10 The Santa Claus sleigh jump             | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-10/index.js) | 140   |
+| #10 The Santa Claus sleigh jump             | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-10/index.js) | 220   |
 | Tomorrow ⏰...                              | ...                                                                                | ...   |

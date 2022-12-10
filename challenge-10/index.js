@@ -4,16 +4,15 @@ const solve = (heights) => {
   const right = heights.slice(inflection + 1);
 
   return (
-    // More than one item increasing and at least one item
-    // decreasing
+    // More than one item increasing and at least one item decreasing
     !(left.length <= 1 || !right.length) &&
     // Every item on the left part is increasing
-    left.every((number, index, arr) => {
-      return !arr[index - 1] || number >= arr[index - 1];
+    left.slice(1).every((number, index) => {
+      return number >= left[index];
     }) &&
     // Every item on the right part is decreasing
-    right.every((number, index, arr) => {
-      return !arr[index - 1] || number <= arr[index - 1];
+    right.slice(1).every((number, index) => {
+      return number <= right[index];
     })
   );
 };
