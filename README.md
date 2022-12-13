@@ -16,4 +16,5 @@
 | #10 The Santa Claus sleigh jump             | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-10/index.js) | 220   |
 | #11 Santa Calus is Scrum Master             | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-11/index.js) | 220   |
 | #12 Electric sleighs, wow!                  | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-12/index.js) | 320   |
+| #13 Backups for Santa Claus files           | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-13/index.js) | 300   |
 | Tomorrow ⏰...                              | ...                                                                                | ...   |
