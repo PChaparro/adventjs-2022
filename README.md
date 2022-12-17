@@ -20,4 +20,5 @@
 | #14 The best path                           | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-14/index.js) | 100   |
 | #15 Decorating the Christmas tree           | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-15/index.js) | 80    |
 | #16 Fixing Santa Clau's letters             | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-16/index.js) | fail  |
+| #17 Carrying gifts in bags                  | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-17/index.js) | 100   |
 | Tomorrow ⏰...                              | ...                                                                                | ...   |
