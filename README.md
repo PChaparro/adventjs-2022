@@ -22,4 +22,5 @@
 | #16 Fixing Santa Clau's letters             | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-16/index.js) |       |
 | #17 Carrying gifts in bags                  | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-17/index.js) | 100   |
 | #18 We ran out of ink                       | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-18/index.js) | 200   |
+| #19 Sorting the toys                        | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-19/index.js) | 400   |
 | Tomorrow ⏰...                              | ...                                                                                | ...   |
