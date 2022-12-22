@@ -25,4 +25,5 @@
 | #19 Sorting the toys                        | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-19/index.js) | 400   |
 | #20 More challenging trips                  | [orig.](https://github.com/zJaaal/advent-2022/blob/main/adventJS/day_20.js)        | 200   |
 | #21 Creating the gifts table                | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-21/index.js) | 300   |
+| #2 The lights in sync                       | [here](https://github.com/PChaparro/adventjs-2022/blob/main/challenge-22/index.js) | 320   |
 | Tomorrow ⏰...                              | ...                                                                                | ...   |
